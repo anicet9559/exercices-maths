@@ -7,6 +7,12 @@ output: html_document
 
 # Exercices de Base
 
+### Exercice 1: 
+
+$Soit \ ABC\ un\ triangle\ tel\ que\ AB = 5,\ AC=3\ et\ \widehat{BAC}= \frac{3\pi}{4};$
+
+$Determiner\ \overrightarrow{AB}\  \cdot \ \overrightarrow{AC}$
+
 # Exercices de perfectionnement
 
 # Exercices avancés
