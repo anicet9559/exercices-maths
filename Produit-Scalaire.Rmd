@@ -1,0 +1,12 @@
+---
+title: "Produit Scalaire"
+author: "Anicet TAXIL"
+date: "2026-03-16"
+output: html_document
+---
+
+# Exercices de Base
+
+# Exercices de perfectionnement
+
+# Exercices avancés
