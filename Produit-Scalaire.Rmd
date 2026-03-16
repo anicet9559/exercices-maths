@@ -8,11 +8,15 @@ output:
 
 # Exercices de Base
 
-### Exercice 1:
+### Exercice : Produit Scalaire classique
 
 $Soit \ ABC\ un\ triangle\ tel\ que\ AB = 5,\ AC=3\ et\ \widehat{BAC}= \frac{3\pi}{4};$
 
 $Determiner\ \overrightarrow{AB}\  \cdot \ \overrightarrow{AC}$
+
+### Exercice : Produit Scalaire et Losange
+
+Considérons la figure suivante, représentant un losange ABCD dans un repère orthonormal $(O, \vec{i}, \vec{j})$ ![Repère orthonormé (O, i,)](images/Capture%20d’écran%202026-03-16%20à%2023.05.03.png){width="460" height="320"}
 
 # Exercices de perfectionnement
 
