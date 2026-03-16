@@ -1,13 +1,14 @@
 ---
 title: "Produit Scalaire"
 author: "Anicet TAXIL"
-date: "2026-03-16"
-output: html_document
+output: 
+  html_document:
+    self_contained: true
 ---
 
 # Exercices de Base
 
-### Exercice 1: 
+### Exercice 1:
 
 $Soit \ ABC\ un\ triangle\ tel\ que\ AB = 5,\ AC=3\ et\ \widehat{BAC}= \frac{3\pi}{4};$
 
