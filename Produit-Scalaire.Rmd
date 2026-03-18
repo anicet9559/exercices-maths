@@ -16,8 +16,13 @@ $Determiner\ \overrightarrow{AB}\  \cdot \ \overrightarrow{AC}$
 
 ### Exercice : Produit Scalaire et Losange
 
-Considérons la figure suivante, représentant un losange ABCD dans un repère orthonormal $(O, \vec{i}, \vec{j})$ ![Repère orthonormé (O, i,)](images/Capture%20d’écran%202026-03-16%20à%2023.05.03.png){width="460" height="320"}
+$Considérons\ la\ figure\ suivante,\ représentant\ un\ losange\ ABCD\ dans\ un\ repère\ orthonormal\ (O, \vec{i}, \vec{j})$![Repère orthonormé (O, i,)](images/Capture%20d’écran%202026-03-16%20à%2023.05.03.png){width="460" height="320"}
+
+$$Après\ avoir\ donné\ la\ norme\ de\ \overrightarrow{CD},\ calculer\ \overrightarrow{OA} \cdot \overrightarrow{OC} \ ;\ \overrightarrow{OB} \cdot \overrightarrow{OA} \ ;\ \overrightarrow{BC} \cdot \overrightarrow{AD} \ ;\ \overrightarrow{BC} \cdot \overrightarrow{BA} \ sachant\ que\ OA=OC=4\ et\ OB=OD=3 $$
 
 # Exercices de perfectionnement
 
-# Exercices avancés
+$
+ABC\ est\ un\ triangle\ tel\ que\ AB=5\ .\ Determiner\ l'ensemble\ des\ points\ M\ du\ plan\ tels\ que\ : $
+
+$ \overrightarrow{AB}\ \cdot\ \left(\overrightarrow{MA}\ +\ \overrightarrow{MB}\right) = 0  $
