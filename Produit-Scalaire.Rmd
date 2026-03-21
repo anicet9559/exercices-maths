@@ -6,7 +6,36 @@ output:
     self_contained: true
 ---
 
-# Exercices de Base
+# Incontournables
+
+### Exercice préléminaire:
+
+Lire graphiquement les coordonnées des vecteurs $\vec{u}$, $\vec{v}$ et $\vec{w}$ dans le repère ci-dessous.
+
+![](images/repere.png){width="460" height="320"}
+
+### Exercice : Colinéarité des vecteurs
+
+Les vecteurs suivants sont-ils colinéaires ?
+
+1.  $\vec{u} \begin{pmatrix} 3 \\ -1 \end{pmatrix}$ et $\vec{v} \begin{pmatrix} -6 \\ 2 \end{pmatrix}$
+2.  $\vec{u} \begin{pmatrix} 0 \\ 4 \end{pmatrix}$ et $\vec{v} \begin{pmatrix} 0 \\ -1 \end{pmatrix}$
+3.  $\vec{u} \begin{pmatrix} -14 \\ 28 \end{pmatrix}$ et $\vec{v} \begin{pmatrix} -8 \\ 12 \end{pmatrix}$
+
+### Exercice : Relation de Chasles
+
+À l'aide de la relation de Chasles, simplifier les expressions suivantes :
+
+1.  $\overrightarrow{AB} - \overrightarrow{AC} + \overrightarrow{BC}$
+2.  $\overrightarrow{AB} + 2\overrightarrow{BD} - \overrightarrow{CA} + \overrightarrow{CB}$
+
+### Exercice : Alignement de vecteurs
+
+Dans chacun des cas suivants, déterminer si les points $A$, $B$ et $C$ sont alignés.
+
+1.  $A(-9 \ ; \ 4)$, $B(1 \ ; \ -1)$ et $C(4 \ ; \ -2)$
+2.  $A(-4 \ ; \ 0)$, $B(-2 \ ; \ 1)$ et $C\left(3 \ ; \ \frac{7}{2}\right)$
+3.  $A(-4 \ ; \ 4)$, $B(-4 \ ; \ 6)$ et $C(-3 \ ; \ 2)$
 
 ### Exercice : Produit Scalaire classique
 
@@ -14,15 +43,18 @@ $Soit \ ABC\ un\ triangle\ tel\ que\ AB = 5,\ AC=3\ et\ \widehat{BAC}= \frac{3\p
 
 $Determiner\ \overrightarrow{AB}\  \cdot \ \overrightarrow{AC}$
 
-### Exercice : Produit Scalaire et Losange
+# Travail de Fond
 
-$Considérons\ la\ figure\ suivante,\ représentant\ un\ losange\ ABCD\ dans\ un\ repère\ orthonormal\ (O, \vec{i}, \vec{j})$![Repère orthonormé (O, i,)](images/Capture%20d’écran%202026-03-16%20à%2023.05.03.png){width="460" height="320"}
+$Considérons\ la\ figure\ suivante,\ représentant\ un\ losange\ ABCD\ dans\ un\ repère\ orthonormal\ (O, \vec{i}, \vec{j})$![Repère orthonormé (O, i, j)](images/Capture%20d’écran%202026-03-16%20à%2023.05.03.png){width="460" height="320"}
 
 $$Après\ avoir\ donné\ la\ norme\ de\ \overrightarrow{CD},\ calculer\ \overrightarrow{OA} \cdot \overrightarrow{OC} \ ;\ \overrightarrow{OB} \cdot \overrightarrow{OA} \ ;\ \overrightarrow{BC} \cdot \overrightarrow{AD} \ ;\ \overrightarrow{BC} \cdot \overrightarrow{BA} \ sachant\ que\ OA=OC=4\ et\ OB=OD=3 $$
 
-# Exercices de perfectionnement
+# Pour aller plus loin
 
-$
-ABC\ est\ un\ triangle\ tel\ que\ AB=5\ .\ Determiner\ l'ensemble\ des\ points\ M\ du\ plan\ tels\ que\ : $
+$ABC$ est un triangle tel que $AB = 5$.\
+Déterminer l'ensemble des points $M$ du plan tels que :
 
-$ \overrightarrow{AB}\ \cdot\ \left(\overrightarrow{MA}\ +\ \overrightarrow{MB}\right) = 0  $
+1.  $\vec{AB} \cdot (\vec{MA} + \vec{MB}) = 0$
+2.  $\vec{AB} \cdot \vec{AM} = 2$
+3.  $MA^2 + MB^2 = AB^2$
+4.  $(\vec{MA} + \vec{MB} - 2\vec{MC}) \cdot (\vec{MA} + \vec{MB} + \vec{MC}) = 0$
